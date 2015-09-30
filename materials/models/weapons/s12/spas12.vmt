@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+
+	//"$color"				"[0.9 0.95 1]"
+	"$basetexture"			"models\weapons\s12\spas12_d"
+	"$bumpmap"				"models\weapons\s12\spas12_n"
+	"$phongexponenttexture"	"models\weapons\s12\spas12_s"
+	//$selfillum 1
+    "$halflambert" 			"1"
+	"$normalmapalphaenvmapmask" 	"1"
+
+	$phongtint						"[0.6 0.6 0.8]"
+
+	$basemapalphaphongmask	"1"
+
+	//$envmap 						env_cubemap
+	$envmaptint 					"[.05 .05 .06]"
+	
+	$phong 							"1"
+	$PhongAlbedoTint 				"1"	
+	//$phongexponent		"30"	
+	
+	$phongboost 					"5"
+	$phongfresnelranges				"[0.25 0.75 2]"
+	$rimlight               1
+	$rimlightexponent       200
+	$rimlightboost          .01	
+	$rimmask 1
+}
