@@ -14,3 +14,4 @@ Content sources:
 - SCAR TAN: http://steamcommunity.com/sharedfiles/filedetails/?id=522040010
 - SCAR BLACK: http://steamcommunity.com/sharedfiles/filedetails/?id=521080705
 - FAMAS F1: http://steamcommunity.com/sharedfiles/filedetails/?id=526694902
+- STEN: http://steamcommunity.com/sharedfiles/filedetails/?id=534349186
