@@ -16,3 +16,4 @@ Content sources:
 - FAMAS F1: http://steamcommunity.com/sharedfiles/filedetails/?id=526694902
 - STEN: http://steamcommunity.com/sharedfiles/filedetails/?id=534349186
 - RPK: http://steamcommunity.com/sharedfiles/filedetails/?id=526815233
+- NINJATO: http://steamcommunity.com/sharedfiles/filedetails/?id=540245986
