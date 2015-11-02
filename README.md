@@ -17,3 +17,4 @@ Content sources:
 - STEN: http://steamcommunity.com/sharedfiles/filedetails/?id=534349186
 - RPK: http://steamcommunity.com/sharedfiles/filedetails/?id=526815233
 - NINJATO: http://steamcommunity.com/sharedfiles/filedetails/?id=540245986
+- M14: http://steamcommunity.com/sharedfiles/filedetails/?id=540671472

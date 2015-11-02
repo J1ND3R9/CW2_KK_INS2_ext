@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\weapons\namm14\m14matte_d"
+	"$bumpmap" 			"models\weapons\namm14\m14matte_n"
+
+	"$color"			"[1 1 1]"
+
+	$normalmapalphaenvmapmask 	"1"
+
+	 $phongtint 			"[.8 .7 .7]"
+
+	$envmap 			env_cubemap
+	$envmaptint 			"[.001 .001 .001  ]"
+
+
+	"$BasemapAlphaPhongMask"	"1" 
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "40"
+	"$phongfresnelranges"	"[ 0 .5 1]"
+	"$phongalbedotint" "1"
+	"$phongexponent"         "1"
+
+
+
+
+}
