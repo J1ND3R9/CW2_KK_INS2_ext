@@ -1,7 +1,7 @@
 # CW2_KK_ins2pack_ext
 more gmod stuff
 
-I take credits only for luas and edits. 
+I take credits only for lua scripts and asset modifications.
 Credits for models, textures and sounds go to their authors.
 
 Content sources:
@@ -18,3 +18,4 @@ Content sources:
 - RPK: http://steamcommunity.com/sharedfiles/filedetails/?id=526815233
 - NINJATO: http://steamcommunity.com/sharedfiles/filedetails/?id=540245986
 - M14: http://steamcommunity.com/sharedfiles/filedetails/?id=540671472
+- AUG: http://steamcommunity.com/sharedfiles/filedetails/?id=566022906
