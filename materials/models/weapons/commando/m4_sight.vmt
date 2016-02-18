@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[1.1 1.1 1.1]"
+	"$basetexture"			"models\weapons\commando\a_carryhandle_m4_dm"
+	"$bumpmap"				"models\weapons\upgrades\a_carryhandle_nm"
+
+	//$selfillum 1
+	
+	"$phong"  					"1"
+	"$phongexponent" 			"85"
+	"$phongboost" 				"1"
+	"$phongfresnelranges" 		"[2 2 4]"
+	$phongtint					"[0.45 0.58 0.7]"
+	"$phongalbedotint" 			"1"
+
+	"$envmap" 						"env_cubemap"
+    "$halflambert" 					"1"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint"				 	"[0.02 0.02 0.02]"
+	
+	$rimlight					1
+	$rimlightexponent			95
+	$rimlightboost				0.05
+}

@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+
+	"$color"				"[1 1 1]"
+	"$basetexture"			"models\weapons\commando\a2_receiver_d"
+	"$bumpmap"				"models\weapons\commando\a2_receiver_n"
+
+	//$selfillum 1
+	
+	"$phong"  					"1"
+	"$phongexponent" 			"85"
+	"$phongboost" 				"0.75"
+	"$phongfresnelranges" 		"[1 2 4]"
+	$phongtint					"[0.45 0.58 0.7]"
+	"$phongalbedotint" 			"1"
+
+	"$envmap" 						"env_cubemap"
+    "$halflambert" 					"1"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint"				 	"[0.01 0.01 0.01]"
+	
+	$rimlight					1
+	$rimlightexponent			95
+	$rimlightboost				0.03
+}
