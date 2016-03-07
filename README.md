@@ -21,3 +21,4 @@ Content sources:
 - AUG: http://steamcommunity.com/sharedfiles/filedetails/?id=566022906
 - M500: http://steamcommunity.com/sharedfiles/filedetails/?id=417340542
 - Colt Model 733 Commando: http://steamcommunity.com/sharedfiles/filedetails/?id=581446598
+- Kriss Vector: http://steamcommunity.com/sharedfiles/filedetails/?id=639980440
