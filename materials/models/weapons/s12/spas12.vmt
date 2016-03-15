@@ -26,4 +26,6 @@
 	$rimlightexponent       200
 	$rimlightboost          .01	
 	$rimmask 1
+	
+	$nocull 1
 }
