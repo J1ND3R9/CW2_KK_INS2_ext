@@ -20,4 +20,9 @@
 	"$rimlightexponent"			"100"
 	"$rimlightboost"			".5"
 	"$rimmask"			"1"
+	
+	// KK WAS HERE vv
+	"$selfillum" "1"
+	"$selfillummask" "models\weapons\Thanez\357\v_357_i"
+	"$selfillumtint" "[1 1 1]"
 }
