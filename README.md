@@ -1,4 +1,4 @@
-# CW2_KK_ins2pack_ext
+# CW2_KK_INS2_ws
 more gmod stuff
 
 I take credits only for lua scripts and asset modifications.
@@ -23,3 +23,4 @@ Content sources:
 - Colt Model 733 Commando: http://steamcommunity.com/sharedfiles/filedetails/?id=581446598
 - Kriss Vector: http://steamcommunity.com/sharedfiles/filedetails/?id=639980440
 - King Cobra: http://steamcommunity.com/sharedfiles/filedetails/?id=646738620
+- MP5A4: http://steamcommunity.com/sharedfiles/filedetails/?id=401960587
