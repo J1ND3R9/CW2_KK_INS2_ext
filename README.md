@@ -24,3 +24,4 @@ Content sources:
 - Kriss Vector: http://steamcommunity.com/sharedfiles/filedetails/?id=639980440
 - King Cobra: http://steamcommunity.com/sharedfiles/filedetails/?id=646738620
 - MP5A4: http://steamcommunity.com/sharedfiles/filedetails/?id=401960587
+- new G36c: http://steamcommunity.com/sharedfiles/filedetails/?id=600619373

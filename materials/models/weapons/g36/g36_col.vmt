@@ -2,9 +2,6 @@
 {
 	"$basetexture" 			"models/weapons/g36/g36_col"
 	"$bumpmap" 				"models/weapons/g36/g36_norm"
-	//"$color" 				"[0.8 0.8 0.8]"
-
-	"$selfillum"			"1"
 	
 	"$phong"  				"1"
 	"$phongexponent" 		"30"
@@ -22,7 +19,4 @@
 	$rimlightexponent       250
 	$rimlightboost          .01	
 	$rimmask 1
-
-
-	
 }
