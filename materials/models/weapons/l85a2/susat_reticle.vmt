@@ -1,0 +1,6 @@
+"UnlitGeneric"
+
+{
+	"$basetexture"	"models\weapons\l85a2\susat_reticle"
+	"$translucent" 	"1"
+}

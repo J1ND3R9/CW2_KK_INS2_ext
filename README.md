@@ -25,3 +25,4 @@ Content sources:
 - King Cobra: http://steamcommunity.com/sharedfiles/filedetails/?id=646738620
 - MP5A4: http://steamcommunity.com/sharedfiles/filedetails/?id=401960587
 - new G36c: http://steamcommunity.com/sharedfiles/filedetails/?id=600619373
+- L85: http://steamcommunity.com/sharedfiles/filedetails/?id=717059270
