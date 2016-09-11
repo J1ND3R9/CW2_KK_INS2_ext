@@ -26,3 +26,4 @@ Content sources:
 - MP5A4: http://steamcommunity.com/sharedfiles/filedetails/?id=401960587
 - new G36c: http://steamcommunity.com/sharedfiles/filedetails/?id=600619373
 - L85: http://steamcommunity.com/sharedfiles/filedetails/?id=717059270
+- RGDM: http://steamcommunity.com/sharedfiles/filedetails/?id=671188955
