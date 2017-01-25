@@ -28,3 +28,5 @@ Content sources:
 - L85: http://steamcommunity.com/sharedfiles/filedetails/?id=717059270
 - RGDM: http://steamcommunity.com/sharedfiles/filedetails/?id=671188955
 - Sawn Off Mosin: http://steamcommunity.com/sharedfiles/filedetails/?id=732412271
+- M39 grenade: http://steamcommunity.com/sharedfiles/filedetails/?id=756628209
+- old DOI Models: http://store.steampowered.com/app/447820

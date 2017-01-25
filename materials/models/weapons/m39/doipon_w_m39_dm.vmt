@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\m39\doipon_w_m39_dm"
+	"$bumpmap"			"models\weapons\m39\doipon_w_m39_nm"
+
+	"$phong"  			"1"
+	"$phongexponent" 		"36"
+	"$phongboost" 			"0.1"
+	"$phongfresnelranges" 		"[2 4 6]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	"$phongalbedotint" 		"1"	
+}
