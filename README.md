@@ -37,3 +37,4 @@ Content sources:
 - G19 world models: http://steamcommunity.com/sharedfiles/filedetails/?id=560414897
 - G19 handling sounds: http://steamcommunity.com/sharedfiles/filedetails/?id=578611315
 - G19 firing sound: http://store.steampowered.com/app/362890/
+- RPZb texture: http://steamcommunity.com/sharedfiles/filedetails/?id=860666595
