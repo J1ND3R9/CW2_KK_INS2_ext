@@ -1,4 +1,4 @@
-# CW2_KK_INS2_ws
+# CW2_KK_INS2_ext
 more gmod stuff
 
 I take credits only for lua scripts and asset modifications.
