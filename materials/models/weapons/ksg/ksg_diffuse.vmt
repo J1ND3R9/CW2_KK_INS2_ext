@@ -5,7 +5,7 @@
 	"$phongexponenttexture" 	"models\weapons\ksg\KSG_specs"
 
 	"$normalmapalphaenvmapmask" "1"
-	"$color"			"[1 1 1]"
+	"$color2"			"[1 1 1]"
 
 	"$nocull"	"1"
 	

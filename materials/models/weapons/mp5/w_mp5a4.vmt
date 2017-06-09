@@ -2,7 +2,7 @@
 {
 	"$basetexture"			"models\weapons\mp5\w_mp5a4_dm"
 	"$bumpmap" 			"models\weapons\mp5\w_mp5a4_nm"
-        "$color"			"[1.4 1.4 1.4]"
+        "$color2"			"[1.4 1.4 1.4]"
 
 	"$phong"                        "1"
 	"$phongalbedotint"              "1"

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 
-	"$color"				"[1 1 1]"
+	"$color2"				"[1 1 1]"
 	"$basetexture"			"models\weapons\commando\a2_mount_d"
 	"$bumpmap"				"models\weapons\commando\a2_mount_n"
 

@@ -2,7 +2,7 @@
 {
 	"$basetexture"	"models\weapons\melee\1_d"
 	"$bumpmap"	"models\weapons\melee\1_n"
-        "$color"                 "1 1 1" 
+        "$color2"                 "1 1 1" 
 	"$phong"  				"1"
 	"$phongexponent" 		"10"
 	"$phongboost" 			"0.2"

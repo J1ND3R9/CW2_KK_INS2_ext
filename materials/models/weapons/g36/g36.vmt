@@ -2,7 +2,7 @@
 {
 	"$basetexture" 			"models/weapons/g36/g36_col"
 	"$bumpmap" 				"models/weapons/g36/g36_norm"
-	//"$color" 				"[0.8 0.8 0.8]"
+	//"$color2" 				"[0.8 0.8 0.8]"
 
 	"$selfillum"			"1"
 	

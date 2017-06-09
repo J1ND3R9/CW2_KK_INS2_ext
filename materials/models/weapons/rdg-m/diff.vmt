@@ -2,7 +2,7 @@
 {
 	"$basetexture"			"models\weapons\RDG-M\diff"
 	"$bumpmap" 			"models\weapons\RDG-M\nml"
-     	"$color"			"[1 1 1]"
+     	"$color2"			"[1 1 1]"
 
 	"$phong"                        "1"
 	"$phongalbedotint"              "1"

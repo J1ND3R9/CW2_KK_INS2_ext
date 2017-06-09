@@ -2,7 +2,7 @@
 {
 	"$baseTexture" 			"models\weapons\namm14\M14metal_d"
 	"$bumpmap" 			"models\weapons\namm14\M14metal_n"
-	"$color"			"[1 1 1]"
+	"$color2"			"[1 1 1]"
 
 	$normalmapalphaenvmapmask 	"1"
 

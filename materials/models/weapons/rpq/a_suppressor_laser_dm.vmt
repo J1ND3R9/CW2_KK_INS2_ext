@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$color"     				"[ 1 1 1]"
+	"$color2"     				"[ 1 1 1]"
 	"$basetexture"				"models\weapons\upgrades\a_suppressor_laser_dm"
 	"$bumpmap" 					"models\weapons\upgrades\a_suppressor_laser_nm"
 	"$normalmapalphaenvmapmask" "1"

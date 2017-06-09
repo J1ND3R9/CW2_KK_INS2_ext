@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 
-	"$color"				"[0.62 0.63 0.65]"
+	"$color2"				"[0.62 0.63 0.65]"
 	"$basetexture"			"models\weapons\rpq\ins_fg_d"
 	"$bumpmap"				"models\weapons\rpq\ins_fg_n"
 

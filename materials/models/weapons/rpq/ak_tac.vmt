@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-	//"$color"				"[1 1 1]"
+	//"$color2"				"[1 1 1]"
 	$baseTexture 	"models\weapons\rpq\akm_d"
 	$bumpmap 		"models\weapons\rpq\akm_n"
 	$selfillum 1

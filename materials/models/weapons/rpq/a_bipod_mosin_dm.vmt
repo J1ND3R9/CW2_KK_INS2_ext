@@ -1,6 +1,6 @@
 "VertexLitGeneric"
 {
-	"$color"				"[1.1 1.15 1.22]"
+	"$color2"				"[1.1 1.15 1.22]"
 	"$baseTexture" "models\weapons\upgrades\a_bipod_mosin_dm"
 	"$bumpmap" "models\weapons\upgrades\a_bipod_mosin_nm"
 

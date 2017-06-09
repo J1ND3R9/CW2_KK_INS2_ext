@@ -5,7 +5,7 @@
 	"$bumpmap"	 			"models/weapons/glock/ss/glock_n"
 	"$phongexponenttexture" "models/weapons/glock/ss/exponent"
 	
-	"$color" 				"[0.68 0.69 0.7]"//"[0.7 0.75 0.8]"
+	"$color2" 				"[0.68 0.69 0.7]"//"[0.7 0.75 0.8]"
 
 	"$selfillum"            "1"
     //"$nocull" 		    "1"
